@@ -39,6 +39,15 @@ Through this project, I developed and honed the following skills:
 
 This project showcases an in-depth exploration of Netflix’s library and provides an intuitive way to analyse trends across multiple dimensions.
 
+## 🚀 How to Explore
+ 
+1. Download the TWBX file (Netflix.twbx)
+
+2. Open it with Tableau Desktop (version 2020.4 or later recommended)
+
+3. Interact with filters and visuals to explore employment trends
+ 
+
 ## My Dashboard
 [Link to My Dashboard](https://public.tableau.com/app/profile/krishan.mehta/viz/Netflix_17469091513000/Dashboard1#1)
 ![image](https://github.com/user-attachments/assets/03519692-f9f6-43b5-8c34-8c086b4d9470)
