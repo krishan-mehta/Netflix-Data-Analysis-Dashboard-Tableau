@@ -47,9 +47,10 @@ This project showcases an in-depth exploration of Netflix’s library and provid
 
 3. Interact with filters and visuals to explore employment trends
  
-
 ## 👉 My Dashboard
+
 [Link to My Dashboard](https://public.tableau.com/app/profile/krishan.mehta/viz/Netflix_17469091513000/Dashboard1#1)
+
 ![image](https://github.com/user-attachments/assets/03519692-f9f6-43b5-8c34-8c086b4d9470)
 
 
