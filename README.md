@@ -23,6 +23,11 @@ This project leverages **Tableau** to analyse Netflix's content distribution acr
 - **Dynamic Dropdown Filters**: The dropdown menu on the right allows users to modify the visualisations dynamically, updating graphs according to selected parameters. This enhances user engagement and enables tailored insights.
 - **Title and Type Selection**: By interacting with these elements, users can refine results for specific content titles and types. This adjustment affects multiple fields, including **rating, duration, date added, and description**, allowing for a more granular exploration of Netflix's content.
 
+## Data Cleaning Process
+Data was refined using **VLOOKUP** and **INDEX MATCH** in **Excel**:
+- **VLOOKUP** standardized genres and filled missing values.
+- **INDEX MATCH** retrieved specific movie attributes accurately.
+
 ## ✅ Skills Gained
 Through this project, I developed and honed the following skills:
 
